@@ -1,15 +1,6 @@
 Change Log
 ==========
 
-Version 1.0.0 *(2021-09-30)*
-----------------------------
-
- * Kotlin updated to 1.5.31
- * Serialization updated to 1.3.0
-
-   APIs used in this converter are now not marked with experimental.
-
-
 Version 0.8.0 *(2020-10-09)*
 ----------------------------
 
